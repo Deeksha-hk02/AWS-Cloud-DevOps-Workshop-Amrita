@@ -1,5 +1,4 @@
-
-    :root {
+:root {
       --accent: #2563eb;
       --text: #172033;
       --muted: #5b6475;
@@ -244,4 +243,3 @@
         padding-right: 0;
       }
     }
-  
